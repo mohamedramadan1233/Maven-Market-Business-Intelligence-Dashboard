@@ -1,10 +1,5 @@
-# Maven-Market-Business-Intelligence-Dashboard
+# 📊 Maven-Market-Business-Intelligence-Dashboard
 Retail performance analytics dashboard built with Power BI featuring KPI tracking, target comparison, geographic analysis, and advanced data modeling.
-# 📊 Maven Market Performance Dashboard
-
-<img src = "https://github.com/user-attachments/assets/869657bf-aa89-4194-a8e9-1b2bf06c103f" />
-
-<img src="https://github.com/user-attachments/assets/587bec13-3673-49e4-9474-0f26043a63c2" />
 
 ## 🚀 Project Overview
 An end-to-end retail performance analytics solution built using Power BI.
@@ -58,7 +53,11 @@ The model follows a structured star-schema design:
 ---
 
 ## 📷 Dashboard Preview
-(Add screenshots here)
+<img src = "https://github.com/user-attachments/assets/869657bf-aa89-4194-a8e9-1b2bf06c103f" /> 
+
+## 📷 Table RelationShips
+<img src="https://github.com/user-attachments/assets/587bec13-3673-49e4-9474-0f26043a63c2" />
+
 
 ---
 
