@@ -2,7 +2,7 @@
 Retail performance analytics dashboard built with Power BI featuring KPI tracking, target comparison, geographic analysis, and advanced data modeling.
 # 📊 Maven Market Performance Dashboard
 
-!(https://github.com/user-attachments/assets/869657bf-aa89-4194-a8e9-1b2bf06c103f)
+<img src = "https://github.com/user-attachments/assets/869657bf-aa89-4194-a8e9-1b2bf06c103f" />
 
 <img src="https://github.com/user-attachments/assets/587bec13-3673-49e4-9474-0f26043a63c2" />
 
